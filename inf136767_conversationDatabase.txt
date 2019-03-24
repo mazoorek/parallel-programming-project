@@ -1,0 +1,9 @@
+20;frank;hi
+20;tom;hi
+20;tom;hello
+20;tom;What's up?
+20;tom;haha
+21;frank;witam ponownie
+21;frank;tutaj
+21;frank;losowa
+21;frank;halo
